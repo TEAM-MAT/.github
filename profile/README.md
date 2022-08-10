@@ -1,4 +1,8 @@
 TEAM-MAT
 SW development team of SSU IT department students
 
-Introduce
+Team Members
+Wonjun Sim (makemyway-kr)
+Suho Han
+Sumin Lee
+Sangcheol Park
