@@ -5,5 +5,5 @@
 Team Members
 <ol>Wonjun Sim (makemyway-kr)</ol>
 <ol>Suho Han</ol>
-<ol>Sumin Lee</ol>
+<ol>Soomin Lee</ol>
 <ol>SangcΩeol Park</ol>
